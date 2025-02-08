@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi, I'm Dimple! 👋  
+🔍 **Aspiring Data Analyst** | 📊 SQL | 📉 Tableau | 📈 Python | 🔥 Power BI  
 
+I am passionate about turning raw data into meaningful insights. With experience in **data visualization, SQL queries, and machine learning**, I have worked on projects that solve real-world business problems.  
+
+---
+## 📂 **Projects**
 <!--
 **Dimple1604/dimple1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
